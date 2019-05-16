@@ -1,2 +1,2 @@
-#LARAVEL BLOG
-###Blog App With Laravel Framework
+# LARAVEL BLOG
+### Blog App With Laravel Framework
